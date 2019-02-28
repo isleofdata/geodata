@@ -1,0 +1,2 @@
+spatialite-bin
+libsqlite3-mod-spatialite
