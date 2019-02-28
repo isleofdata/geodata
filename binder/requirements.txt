@@ -1,3 +1,4 @@
 osmnx
+folium
 datasette
 datasette-cluster-map
