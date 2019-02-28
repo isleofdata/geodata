@@ -2,3 +2,6 @@ osmnx
 folium
 datasette
 datasette-cluster-map
+
+#Food Standards Agency datagrabber
+git+https://github.com/ouseful-datasupply/food_gov_uk.git
