@@ -16,3 +16,4 @@ The notebooks include:
 - *spatialite-datasette-demo*: loading Ordnance Survey Boundary-Line data into spatialite then accessing it via a datasette API
 - *datasette_spatialite_geoquery*: examples of searching for locations of establishments rated by the UK Food Standards Agency within areas identified by Ordnance Survey Boundary Lines;
 - *osmnx-demo*: examples of using OSMNX to query OpenStreetMap to retrieve and render OSM roads and buildings data;
+- *geocodes*: simple lookup of ONS geocodes (name, code); still to do: lookups (eg wards in constituency)
